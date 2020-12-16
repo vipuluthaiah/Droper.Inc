@@ -1342,6 +1342,19 @@ h6 {
   color: #f1f7ff;
 }
 
+.whatapp {
+  position: absolute;
+  color: green;
+  right: 2rem;
+  bottom: 1rem;
+  position: fixed;
+  font-size: 3rem;
+  z-index: 1;
+}
+.fa-whatsapp {
+  color: #4fce5d;
+}
+
 /*--------------------------------------------------------------
 # Responsive Media Queries
 --------------------------------------------------------------*/
